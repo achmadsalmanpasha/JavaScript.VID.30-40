@@ -1,0 +1,24 @@
+[ 
+    { 
+
+    "idmenu" : 1,
+    "idkategori" : 1,
+    "menu" : "jus alpukat",
+    "harga" : 3000,
+    "warna" : ["merah", "kuning", "hijau"],
+    "stok" : true,
+    "keterangan" : null
+
+},
+    { 
+
+    "idmenu" : 2,
+    "idkategori" : 1,
+    "menu" : "jus jambu",
+    "harga" : 5000,
+    "warna" : ["merah", "kuning"],
+    "stok" : true,
+    "keterangan" : null
+
+}
+]
